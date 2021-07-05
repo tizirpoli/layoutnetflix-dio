@@ -33,6 +33,7 @@
         font-size: initial;
         flex-direction: column;
     }
+    
     .botoes{
         display: flex;
         flex-direction: column;
